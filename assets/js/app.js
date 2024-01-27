@@ -23,12 +23,12 @@ let header = $(`
 
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">🏡</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="reference.html">About</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="techstack.html">Skills</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="techstack.html">Skill</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Project</a></li>
    <li class="nav-item nav-item-hover">
         <a aria-label="Open Subhankar's Resume in a new tab"
           href="404.html" target="_blank" class="nav-link"><i class="mdi-file-folder-open small"></i><span>Resume</span></a>
