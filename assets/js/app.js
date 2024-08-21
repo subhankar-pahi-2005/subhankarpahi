@@ -31,7 +31,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Project</a></li>
    <li class="nav-item nav-item-hover">
         <a aria-label="Open Subhankar's Resume in a new tab"
-          href="https://subhankar-resume.vercel.app/" target="_blank" class="nav-link"><i class="mdi-file-folder-open small"></i><span>Resume</span></a>
+          href="https://github.com/subhankar-pahi-2005/ResumeSubhankarPahi/blob/main/SubhankarResumeNew.pdf" target="_blank" class="nav-link"><i class="mdi-file-folder-open small"></i><span>Resume</span></a>
     </li>
 
 
